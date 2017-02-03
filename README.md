@@ -1,0 +1,1 @@
+This is an implementation of FreeCodeCamp's Image Search Abstraction Layer API, as described [here](https://www.freecodecamp.com/challenges/image-search-abstraction-layer).
